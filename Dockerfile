@@ -1,6 +1,6 @@
 # SQL Server Command Line Tools - custom image
-# From Alpine 3.13.5 (5.61 MB)
-FROM alpine:3.13.5
+# From Alpine 3.14 (5.61 MB)
+FROM alpine:3.14
 
 # MSSQL_VERSION can be changed, by passing `--build-arg MSSQL_VERSION=<new version>` during docker build
 ARG MSSQL_VERSION=17.8.1.1-1
