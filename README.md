@@ -2,7 +2,7 @@
 
 Looking for a minimalistic **SQLCMD** (mssql-tools) container image? ```mssql-tools-alpine``` is definitively a very good alternative.
 
-This image size is ~17 MB, providing you the portability and agility you need to run queries using **SQLCMD** on the fly.
+This image size is ~18 MB, providing you the portability and agility you need to run queries using **SQLCMD** on the fly.
 
 ## Examples
 
